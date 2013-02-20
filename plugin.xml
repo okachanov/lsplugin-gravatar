@@ -6,8 +6,8 @@
 	<author>
 		<lang name="default">rafrica.net</lang>
 	</author>
-	<homepage>http://we.rafrica.net/</homepage>
-	<version>1.1.0</version>
+	<homepage>http://rafrica.net/</homepage>
+	<version>1</version>
 	<requires>
 		<livestreet>0.4.2</livestreet>
 		<plugins>
@@ -15,7 +15,7 @@
 		</plugins>
 	</requires>
 	<description>
-		<lang name="default">User avatars from Gravatar</lang>
+		<lang name="default">User avatars frov Gravatar</lang>
 		<lang name="russian">Аватары пользователя с Gravatar</lang>
 	</description>
 
